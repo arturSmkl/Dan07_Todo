@@ -9,9 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.13"
+    "sass": "^1.89.1",
+    "sass-loader": "^10.5.2",
+    "vue": "^3.5.13",
+    "vuetify": "^3.8.7"
   },
   "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@mdi/js": "^7.4.47",
     "@vitejs/plugin-vue": "^5.2.3",
     "vite": "^6.2.4",
     "vite-plugin-vue-devtools": "^7.7.2"
